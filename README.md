@@ -1,3 +1,3 @@
-# `template-generic`
+# Thinking in React
 
-Template for generic repositories
+https://react.dev/learn/thinking-in-react
